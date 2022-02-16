@@ -41,6 +41,6 @@
     "prismjs": "^1.25.0",
     "sass": "^1.45.0",
     "stylelint": "^14.1.0",
-    "stylelint-config-twbs-bootstrap": "^3.0.0"
+    "stylelint-config-twbs-bootstrap": "^3.0.1"
   }
 }
