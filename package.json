@@ -39,7 +39,7 @@
     "grunt-sass": "^3.1.0",
     "postcss": "^8.4.14",
     "prismjs": "^1.25.0",
-    "sass": "^1.53.0",
+    "sass": "^1.54.4",
     "stylelint": "^14.1.0",
     "stylelint-config-twbs-bootstrap": "^3.0.0"
   }
