@@ -37,7 +37,7 @@
     "grunt-contrib-watch": "^1.1.0",
     "grunt-html": "^15.1.0",
     "grunt-sass": "^3.1.0",
-    "postcss": "^8.4.17",
+    "postcss": "^8.4.21",
     "prismjs": "^1.25.0",
     "sass": "^1.55.0",
     "stylelint": "^14.11.0",
