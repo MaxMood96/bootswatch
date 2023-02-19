@@ -28,7 +28,7 @@
     "autoprefixer": "^10.4.12",
     "bootstrap": "^5.2.3",
     "bootstrap-icons": "^1.9.1",
-    "grunt": "^1.5.3",
+    "grunt": "^1.6.0",
     "grunt-contrib-clean": "^2.0.0",
     "grunt-contrib-concat": "^2.0.0",
     "grunt-contrib-connect": "^3.0.0",
