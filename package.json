@@ -40,7 +40,7 @@
     "postcss": "^8.4.24",
     "prismjs": "^1.29.0",
     "sass": "^1.62.1",
-    "stylelint": "^15.6.2",
+    "stylelint": "^15.10.1",
     "stylelint-config-twbs-bootstrap": "^10.0.0"
   }
 }
