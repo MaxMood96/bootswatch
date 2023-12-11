@@ -40,7 +40,7 @@
     "grunt-shell": "^4.0.0",
     "postcss": "^8.4.27",
     "prismjs": "^1.29.0",
-    "rtlcss": "^4.1.0",
+    "rtlcss": "^4.1.1",
     "sass": "^1.65.1",
     "stylelint": "^15.10.2",
     "stylelint-config-twbs-bootstrap": "^11.0.1"
